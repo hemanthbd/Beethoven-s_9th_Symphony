@@ -1,2 +1,3 @@
 $ cat .gitattributes
-Beethoven_9th_Symphony/asm_Beethoven/* linguist-vendored=true
+
+Beethoven_9th_Symphony/asm_Beethoven/* linguist-detectable=true
