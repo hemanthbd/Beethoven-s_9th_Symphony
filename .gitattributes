@@ -1,4 +1,5 @@
 $ cat .gitattributes
 *.rb linguist-language=Assembly
 *.rb linguist-vendored=Assembly
+*.asm linguist-language=Assembly
 Beethoven_9th_Symphony/asm_Beethoven/* linguist-detectable=true
